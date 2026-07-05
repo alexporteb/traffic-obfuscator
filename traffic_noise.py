@@ -5,7 +5,7 @@ import logging
 import urllib.request
 import urllib.error
 
-TARGET_GB_PER_DAY = 50.0
+TARGET_GB_PER_DAY = 10.0
 SLEEP_MIN_SECONDS = 300
 SLEEP_MAX_SECONDS = 1500
 

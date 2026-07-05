@@ -33,7 +33,7 @@ curl -sSL https://raw.githubusercontent.com/alexporteb/traffic-obfuscator/main/i
 
 ### ⚙️ Configuration
 To adjust limits, edit `/opt/sys-metrics/sys_metrics.py` after installation:
-* `TARGET_GB_PER_DAY` — Target volume of traffic per day (default: `50.0` GB).
+* `TARGET_GB_PER_DAY` — Target volume of traffic per day (default: `10.0` GB).
 * `SLEEP_MIN_SECONDS` / `SLEEP_MAX_SECONDS` — Minimum and maximum sleep intervals between download sessions.
 
 After editing, restart the service:
@@ -74,7 +74,7 @@ curl -sSL https://raw.githubusercontent.com/alexporteb/traffic-obfuscator/main/i
 
 ### ⚙️ Конфигурация
 Чтобы изменить лимиты, отредактируйте файл `/opt/sys-metrics/sys_metrics.py` после установки:
-* `TARGET_GB_PER_DAY` — Целевой объем трафика в сутки (по умолчанию `50.0` ГБ).
+* `TARGET_GB_PER_DAY` — Целевой объем трафика в сутки (по умолчанию `10.0` ГБ).
 * `SLEEP_MIN_SECONDS` / `SLEEP_MAX_SECONDS` — Минимальный и максимальный интервалы сна.
 
 После редактирования перезапустите сервис:
