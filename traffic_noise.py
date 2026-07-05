@@ -11,11 +11,9 @@ SLEEP_MAX_SECONDS = 1500
 
 URLS = [
     "https://mirror.yandex.ru/archlinux/iso/latest/archlinux-x86_64.iso",
-    "https://mirror.yandex.ru/archlinux/iso/latest/archlinux-bootstrap-x86_64.tar.gz",
     "https://mirror.yandex.ru/centos-stream/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-latest-x86_64-dvd1.iso",
     "https://mirror.yandex.ru/almalinux/9/isos/x86_64/AlmaLinux-9-latest-x86_64-dvd.iso",
     "https://mirror.truenetwork.ru/archlinux/iso/latest/archlinux-x86_64.iso",
-    "https://mirror.truenetwork.ru/archlinux/iso/latest/archlinux-bootstrap-x86_64.tar.gz",
     "https://mirror.truenetwork.ru/centos-stream/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-latest-x86_64-dvd1.iso",
     "https://mirror.truenetwork.ru/almalinux/9/isos/x86_64/AlmaLinux-9-latest-x86_64-dvd.iso",
     "https://mirror.truenetwork.ru/rocky/9/isos/x86_64/Rocky-9-latest-x86_64-dvd.iso",
