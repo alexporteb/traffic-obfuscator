@@ -18,11 +18,10 @@ URLS = [
     "https://speed.hetzner.de/10GB.bin",
     "http://ipv4.download.thinkbroadband.com/1GB.zip",
     "http://ipv4.download.thinkbroadband.com/512MB.zip",
-    "https://releases.ubuntu.com/22.04/ubuntu-22.04.4-desktop-amd64.iso",
-    "https://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-12.5.0-amd64-DVD-1.iso",
-    "https://mirror.yandex.ru/ubuntu-releases/24.04/ubuntu-24.04-desktop-amd64.iso",
-    "https://download.freebsd.org/releases/amd64/amd64/ISO-IMAGES/14.0/FreeBSD-14.0-RELEASE-amd64-dvd1.iso",
-    "http://mirror.yandex.ru/centos/8-stream/isos/x86_64/CentOS-Stream-8-x86_64-latest-dvd1.iso"
+    "http://proof.ovh.net/files/1Gb.dat",
+    "http://proof.ovh.net/files/10Gb.dat",
+    "http://mirror.leaseweb.com/speedtest/1000mb.bin",
+    "http://mirror.leaseweb.com/speedtest/10000mb.bin"
 ]
 
 USER_AGENTS = [
