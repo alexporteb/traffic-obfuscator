@@ -18,10 +18,8 @@ URLS = [
     "https://mirror.truenetwork.ru/archlinux/iso/latest/archlinux-bootstrap-x86_64.tar.gz",
     "https://mirror.truenetwork.ru/centos/8-stream/isos/x86_64/CentOS-Stream-8-x86_64-latest-dvd1.iso",
     "https://mirror.truenetwork.ru/centos/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-latest-x86_64-dvd1.iso",
-    "http://speedtest.tele2.net/10GB.zip",
-    "http://ipv4.download.thinkbroadband.com/1GB.zip",
-    "http://proof.ovh.net/files/10Gb.dat",
-    "http://mirror.leaseweb.com/speedtest/10000mb.bin"
+    "https://mirror.yandex.ru/ubuntu-releases/24.04/ubuntu-24.04-desktop-amd64.iso",
+    "https://mirror.truenetwork.ru/ubuntu-releases/24.04/ubuntu-24.04-desktop-amd64.iso"
 ]
 
 USER_AGENTS = [
