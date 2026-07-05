@@ -23,11 +23,11 @@ Wants=network-online.target
 
 [Service]
 Type=simple
-User=nobody
+DynamicUser=yes
 ExecStart=/usr/bin/python3 ${SCRIPT_PATH}
 Restart=always
 RestartSec=30
-MemoryLimit=150M
+MemoryMax=150M
 CPUQuota=20%
 
 [Install]
