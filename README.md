@@ -24,6 +24,10 @@
 Run the following command as root (or with sudo) to automatically download, install, and start the service:
 
 ```bash
+# As root:
+curl -sSL https://raw.githubusercontent.com/alexporteb/traffic-obfuscator/main/install.sh | bash
+
+# Or via sudo:
 curl -sSL https://raw.githubusercontent.com/alexporteb/traffic-obfuscator/main/install.sh | sudo bash
 ```
 
@@ -61,6 +65,10 @@ sudo journalctl -u sys-metrics -f
 Выполните следующую команду от имени root (или через sudo), чтобы автоматически скачать, установить и запустить сервис:
 
 ```bash
+# От имени root:
+curl -sSL https://raw.githubusercontent.com/alexporteb/traffic-obfuscator/main/install.sh | bash
+
+# Или через sudo:
 curl -sSL https://raw.githubusercontent.com/alexporteb/traffic-obfuscator/main/install.sh | sudo bash
 ```
 
